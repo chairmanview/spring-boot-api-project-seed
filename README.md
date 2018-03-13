@@ -43,3 +43,5 @@ Spring Boot API Project Seed 是一个基于Spring Boot & MyBatis的种子项目
 
 ## License
 无，纯粹开源分享，感谢大家 [Star](https://github.com/lihengming/spring-boot-api-project-seed/stargazers) & [Fork](https://github.com/lihengming/spring-boot-api-project-seed/network/members) 的支持。
+
+由于版本较久未更新,特建立应对交流qq群（535944077），望lihengming看到来群里领群主，谢谢。
